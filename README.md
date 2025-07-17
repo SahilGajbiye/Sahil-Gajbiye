@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Sahil Gajbhiye</h1>
 <h3 align="center">Enthusiastic Developer | Data Analytics Explorer</h3>
 
-<p align="center">MCA student passionate about solving real-world problems through clean code and meaningful data insights.</p>
+<p align="center">Developer & data explorer crafting impactful digital tools with practical logic and design.</p>
 
 
 ---
@@ -46,7 +46,6 @@
 ### 📬 Get in Touch
 
 - **Email**: sahilgajbhiye645@gmail.com  
-- **Phone**: +91 8805493243  
 - **LinkedIn**: [linkedin.com/in/sahilgajbhiye](https://linkedin.com/in/sahilgajbhiye)
 
 ---
