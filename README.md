@@ -1,13 +1,10 @@
 # sahilgajbiye
 
-<h1 align="center">Hi 👋, I'm Sahil Gajbhiye</h1>
+<h1 align="center">Hi, I'm Sahil Gajbhiye</h1>
 <h3 align="center">Enthusiastic Developer | Data Analytics Explorer</h3>
 
-<p align="center">
-  <a href="mailto:sahilgajbhiye645@gmail.com">📧 Email</a> •
-  <a href="tel:+918805493243">📞 Contact</a> •
-  <a href="https://linkedin.com/in/sahilgajbhiye/">💼 LinkedIn</a>
-</p>
+<p align="center">MCA student passionate about solving real-world problems through clean code and meaningful data insights.</p>
+
 
 ---
 
@@ -42,11 +39,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilGajbiye&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilGajbiye&theme=radical" width="48%" />
-</p>
-
+![Sahil's Stats](https://github-readme-stats.vercel.app/api?username=Sahil&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 ---
 
