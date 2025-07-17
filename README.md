@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 🎓 MCA Student at **Ramdeobaba University** (2024–2026)  
 🎓 BCA Graduate from **RTMNU**, Nagpur (2021–2024)  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Technical Skills
+###  Technical Skills
 
 - **Languages**: Python, Java, SQL  
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React  
@@ -27,23 +27,23 @@
 
 ---
 
-### 💼 Projects
+###  Projects
 
-#### 🚀 [PhotoLoom](https://github.com/SahilGajbiye/PhotoLoom)
-#### 🌐 [ParyatakSathi](https://github.com/SahilGajbiye/ParyatakSathi)
-#### 📊 [Data Preprocessing & Visualization](https://github.com/SahilGajbiye/ParyatakSathi)
-#### 👟 [Nike Shoe Website Clone](https://github.com/SahilGajbiye/Nike-Clone)
+- [PhotoLoom](https://github.com/SahilGajbiye/PhotoLoom)
+- [ParyatakSathi](https://github.com/SahilGajbiye/ParyatakSathi)
+- [Data Preprocessing & Visualization](https://github.com/SahilGajbiye/ParyatakSathi)
+- [Nike Shoe Website Clone](https://github.com/SahilGajbiye/Nike-Clone)
 
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 ![Sahil's Stats](https://github-readme-stats.vercel.app/api?username=Sahil&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 ---
 
-### 📬 Get in Touch
+###  Get in Touch
 
 - **Email**: sahilgajbhiye645@gmail.com  
 - **LinkedIn**: [linkedin.com/in/sahilgajbhiye](https://linkedin.com/in/sahilgajbhiye)
